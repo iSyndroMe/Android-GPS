@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">פרוייקט מקומות</string>
+    <string name="title_activity_main">Maps4You</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="title_activity_prefs">מסך הגדרות</string>
+    <string name="cb_nearBySearch">חפש ליד</string>
+    <string name="action_addToFav">הוסף למועדפים</string>
+    <string name="myFavories">המועדפים שלי</string>
+    <string name="action_share">שתף</string>
+    <string name="action_delete">מחק</string>
+    <string name="image_description">אייקון</string>
+    <string name="title_activity_favorite">מסך מועדפים</string>
+
+</resources>

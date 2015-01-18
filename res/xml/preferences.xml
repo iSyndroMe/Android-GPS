@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:dialogTitle="Distance"
+        android:key="distance"
+        android:summary="KM or Miels"
+        android:title="Choose Distnace Dsiplay" />
+    
+    <ListPreference
+        android:dialogTitle="Radius"
+        android:key="radius"
+        android:title="Choose Radius for Search" />
+
+    <Preference
+        android:key="action_deleteAll"
+        android:summary="delete all favorites"
+        android:title="Delete Favorites" />
+    <Preference
+        android:key="action_exit"
+        android:title="Exit" />
+
+</PreferenceScreen>
